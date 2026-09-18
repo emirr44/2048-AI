@@ -1,0 +1,6 @@
+<?xml version='1.0'?>
+<DevRes>
+	<Images>
+		<Res id="logo" path=":images/logo.png"/>
+	</Images>
+</DevRes>

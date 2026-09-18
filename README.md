@@ -1,4 +1,4 @@
-# 2048 — game, search agents and a reinforcement-learning agent
+# 2048 game with 5 AI agents
 
 A 2048 implementation in C++ with a native GUI (natID) and five playing
 agents, from a random baseline to a temporal-difference learner trained by

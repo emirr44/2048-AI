@@ -87,9 +87,7 @@ Szubert & Jaśkowski (2014), who introduced this method for
 
 ## Notes
 
-- **Human or AI** is chosen in the Mode dropdown; switching resets the board so
-  a score is never carried over between players. The AI does not start by
-  itself — press Start. Stop pauses it, Continue resumes the same board.
+- **Human or AI** is chosen in the Mode dropdown; switching resets the board
 - **Evil Tiles** makes the spawned tile the worst possible one instead of a
   random one, which is a quick way to see how robust an agent is.
 - **AI Step** advances a single move, useful for following a decision.
